@@ -5,6 +5,7 @@
 #支持指定架构
 #--platform=linux/amd64
 
+
 alpine:3.18
 alpine:3.14
 bitnami/postgresql:16-debian-11
