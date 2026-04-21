@@ -8,6 +8,7 @@
 
 alpine:3.18
 alpine:3.14
+alpine:3.21
 bitnami/postgresql:16-debian-11
 debian:10
 alpine:3.20.1
